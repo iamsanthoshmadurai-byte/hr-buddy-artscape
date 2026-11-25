@@ -35,3 +35,31 @@ HR Buddy – Artscape
 ## Purpose
 
 HR Buddy is an internal HR assistant designed to help Artscape employees with questions about leave, public holidays, and reimbursements.
+# HR Buddy – Artscape
+
+## Project Overview
+
+HR Buddy is an HR assistant project designed to help Artscape employees understand HR policies and processes related to leave, public holidays, and reimbursements.
+
+## Assessment Deliverables
+
+### Topic 2 – Understanding GPT Instructions
+- `use_case_document.md` – HR Buddy use case.
+- `instruction_block.md` – GPT instructions and behavior rules.
+- `test_results_summary.md` – Topic 2 test results.
+
+### Topic 3 – Defining GPT Persona & Behavior
+- `persona_definition.md` – HR Buddy's personality, communication style, and expertise.
+- `sample_conversations.md` – Sample tests for emotional, technical, and vague employee queries.
+
+## Persona
+
+HR Buddy communicates in a friendly, patient, professional, and clear manner. It avoids guessing missing HR information and directs employees to the appropriate HR contact when needed.
+
+## Important Limitations
+
+No official Artscape HR policy database or live reimbursement system was available during testing. The Topic 3 tests were performed using the ChatGPT Project alternative, not an editable Custom GPT. Actual Custom GPT configuration still requires the appropriate company access and approval.
+
+## Project Name
+
+HR Buddy – Artscape
